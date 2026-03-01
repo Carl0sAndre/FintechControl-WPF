@@ -1,3 +1,24 @@
+# 💰 FintechControl-WPF
+
+> **Sistema de gestão financeira desktop desenvolvido em C# com foco em organização de código e persistência de dados.**
+
+---
+
+## 📸 Demonstração
+Para facilitar a visualização, aqui estão as principais interfaces do sistema:
+
+### 🏠 Tela Inicial e Transações
+| Tela Inicial | Histórico de Transações |
+|:---:|:---:|
+| ![Tela Inicial](./screenshots/tela_inicial.png) | ![Tela de Transações](./screenshots/tela_transações.png) |
+
+### 📝 Cadastro e Listagem
+| Cadastro de Dados | Listagem Geral |
+|:---:|:---:|
+| ![Tela de Cadastro](./screenshots/tela_cadastro.png) | ![Listar](./screenshots/listar.png) |
+
+---
+
 ## 🚀 Sobre o Projeto
 Este projeto foi criado para gerenciar operações financeiras de forma eficiente, utilizando uma interface moderna em **WPF**. A aplicação permite o controle completo de registros, garantindo que os dados sejam salvos de forma segura através do **Entity Framework**.
 
